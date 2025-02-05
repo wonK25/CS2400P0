@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome!My name is Hyewon Kang. 
+Welcome! My name is Hyewon Kang. 
 
 My GitHub Repository: https://github.com/wonK25/CS2400P0
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/wonK25/CS2400P0)
