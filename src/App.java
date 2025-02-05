@@ -32,7 +32,7 @@ class Box<T extends Comparable<T>> implements Printable {
     // this.value < other.value  -1  The current object is smaller.
     // this.value == other.value  0  Both values are equal.
     // this.value > other.value  1  The current object is greater.
-}  // ✅ Box 클래스 닫는 중괄호
+}  
 
 // main class
 public class App {
