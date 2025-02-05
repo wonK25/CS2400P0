@@ -1,18 +1,16 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome!My name is Hyewon Kang. 
 
-## Folder Structure
+My GitHub Repository: https://github.com/wonK25/CS2400P0
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/wonK25/CS2400P0)
 
-The workspace contains two folders by default, where:
+My video: https://youtu.be/wtDt6U0KNGo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tolls Used
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Screencast Software: OBS Studio (v30.0.2)
+- IDE: Visual Studio Code (v1.85.1)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
